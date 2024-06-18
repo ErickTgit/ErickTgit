@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on geting my certificate from TripleTen [tripleten.com](tripleten.com)
 
-- 🌱 I’m currently learning **Advanced DOM**
+- 🌱 I’m currently learning **API**
 
 - 📫 How to reach me **retromax2025@gmail.com**
 
